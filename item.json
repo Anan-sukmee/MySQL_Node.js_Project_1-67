@@ -1,0 +1,20 @@
+[
+{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"mysql_node.js"},
+{"type":"table","name":"item","database":"mysql_node.js","data":
+[
+{"id":"1","QRID":"9972296997835","Itemname":"broom","total":"25"},
+{"id":"2","QRID":"5515877885797","Itemname":"Cooler","total":"20"},
+{"id":"3","QRID":"7271899745438","Itemname":"canvas tent","total":"20"},
+{"id":"4","QRID":"8597892426940","Itemname":"pot","total":"15"},
+{"id":"5","QRID":"7320786535061","Itemname":"glass","total":"200"},
+{"id":"6","QRID":"3646057430301","Itemname":"spoon","total":"200"},
+{"id":"7","QRID":"4021923435437","Itemname":"food tray","total":"100"},
+{"id":"8","QRID":"3193209446320","Itemname":"talipot fan","total":"15"},
+{"id":"9","QRID":"5464561896489","Itemname":"set of altar table","total":"5"},
+{"id":"10","QRID":"2807554903968","Itemname":"gas stove","total":"10"},
+{"id":"11","QRID":"7338339501539","Itemname":"chair","total":"100"},
+{"id":"12","QRID":"7584359923387","Itemname":"mat","total":"10"}
+]
+}
+]
