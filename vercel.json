@@ -4,12 +4,6 @@
         {
             "src":"sever.js",
             "use":"@now/node"
-        }
-    ],
-    "routes":[
-        {
-            "scr":"/(.*)",
-            "dest":"sever.js"
-        }
-    ]
+        }]
+    
 }
